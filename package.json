@@ -1,0 +1,11 @@
+{
+  "name": "firstnodemodule",
+  "version": "1.0.0",
+  "description": "first node module for testing",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vip1509ku@gmail.com",
+  "license": "ISC"
+}
